@@ -1,0 +1,16 @@
+
+.forecastsection{
+    width: 90vw;
+    background-color: aqua;
+    color: black;
+}
+
+.hourtrack{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(220, 244, 192);
+}
+.progress{
+    width: 70%;
+}
